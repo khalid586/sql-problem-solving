@@ -11,3 +11,4 @@
 |Products by category|[BeeCrowd](https://judge.beecrowd.com/en/problems/view/2609)|
 |No Rental|[BeeCrowd](https://judge.beecrowd.com/en/problems/view/2616)|
 |Provider Ajax SA|[BeeCrowd](https://judge.beecrowd.com/en/problems/view/2617)|
+|Imported products|[BeeCrowd](https://judge.beecrowd.com/en/problems/view/2618)|
